@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bleedingcactus
+- 👋 Hi, I’m redomeire
 - 👀 I’m interested in front end web development
 - 🌱 I’m currently learning Javascript DOM and BOM
 - You can reach me by looking at my account profile
