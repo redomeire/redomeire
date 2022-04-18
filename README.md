@@ -1,10 +1,18 @@
-- Hi Im Redomeire. You can call me Redo 
-- Currently, i'm first year student at University of Brawijaya, Faculty of Computer Science, majoring in Information Technology
-- Interested in :
-  - Front end technologies
-  - Mobile
+<h2>👋 Hi I'm Redo </h2>
+Currently, i'm first year student at University of Brawijaya, Faculty of Computer Science, majoring in Information Technology
+<br><br>
+ Interested in: 
+ <br><br>
+<ul>
+  <li>Front end technologies</li>
+  <li> Mobile</li>
+</ul>
 
-Contact me via https://redomeire.github.io
+<!-- Contact me via https://redomeire.github.io -->
+
+<h2>📈 Here's my stats</h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redomeire&theme=tokyonight&layout=compact)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redomeire&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
