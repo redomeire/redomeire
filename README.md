@@ -1,5 +1,5 @@
 <h2>👋 Hi I'm Redo </h2>
-i'm a second year student at University of Brawijaya, Faculty of Computer Science, majoring in Information Technology.
+i'm a 4th semester student at University of Brawijaya, Faculty of Computer Science, majoring in Information Technology.
 <br>
 Currently, i'm on my way learning Node and ExpressJs
 <br><br>
