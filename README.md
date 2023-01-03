@@ -1,7 +1,7 @@
 <h2>👋 Hi I'm Redo </h2>
 i'm a 4th semester student at University of Brawijaya, Faculty of Computer Science, majoring in Information Technology.
 <br>
-Currently, i'm on my way learning Node and ExpressJs
+Currently, i'm on my way learning Node and AdonisJs
 <br><br>
  Interested in: 
  <br><br>
