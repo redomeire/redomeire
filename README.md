@@ -1,5 +1,5 @@
 <h2>👋 Hi I'm Redo </h2>
-i'm a 7th semester student at University of Brawijaya, Faculty of Computer Science, majoring in Information Technology.
+i'm a 8th semester student at University of Brawijaya, Faculty of Computer Science, majoring in Information Technology.
 <br><br>
  Interested in: 
  <br><br>
