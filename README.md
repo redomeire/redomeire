@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/b392aece-e6ac-4c33-9f1a-830a7b53698a)
+![Image](https://github.com/user-attachments/assets/8803e982-72d1-4e6b-aef0-046b37d8f1b5)
 <h2 align="center">👋 Hi I'm Redo </h2>
  <p align="center">
     I start a project with spirits <strong>high</strong>,<br>
