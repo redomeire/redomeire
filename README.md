@@ -61,6 +61,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=redomeire&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
+<img src="https://raw.githubusercontent.com/redomeire/redomeire/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!---
 bleedingcactus/bleedingcactus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
